@@ -5,7 +5,7 @@ I created this website with Angela YU web designer course from Udemy. It's a sim
 * HTML5
 * CSS 
 
-## What I'm learned? 
+## What I learned? 
 * This project got to know me about HTML and more advanced CSS properties.
 
 ## Live 
